@@ -4,4 +4,4 @@ argentino
 estudiante de IT
 student developer and data science
 learning javaScript
-couse of git in progress
+course of git in progress
