@@ -2,6 +2,6 @@ Daniel Angel
 edad 33
 argentino
 estudiante de IT
-student developer and data science
+student developer and data analist/science
 learning javaScript
-course of git in progress
+course of git and github in progress
